@@ -1,0 +1,82 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    padding: 20px;
+    background: rgb(232, 232, 232);
+   
+}
+
+
+
+
+.metai{
+    color: #666;
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
+h1{
+    color: #0974b3;
+    font-size:xx-large;
+    padding: 0;
+}
+
+img{
+    float: top-left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.newton{
+    background-color: white;
+  max-width: 920px;
+  margin: 10px;
+  padding: 10px;
+  border-style:groove;
+  border-top: solid 0.15cm  #0974b3;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  justify-content: first baseline;
+ 
+
+}
+
+.einstein{
+    background-color: white;
+    max-width: 450px;
+    margin: 10px;
+    padding: 10px;
+    border-style:solid;
+    height: 600px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-top: solid 0.15cm  #0974b3;
+    float: left;
+  }
+
+  .tesla{
+    background-color: white;
+    max-width: 450px;
+    height: 600px;
+    margin: 10px;
+    padding: 10px;
+    border-style:solid;
+    border-top: solid 0.15cm  #0974b3;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    float:left
+}
+
+a{
+    color: rgb(89, 78, 88);
+}
+
